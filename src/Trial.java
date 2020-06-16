@@ -24,7 +24,7 @@ public class Trial {
 //проверка опции pull с добавлением конфликта
 /* метод которым можно заменить основное тело
 //    public static void switchPlaces(int fst, int snd){
-//        if (fst > snd) {
+//        if (fst < snd) {
 //        int tmp = fst;
 //        fst = snd;
 //        snd = tmp;
