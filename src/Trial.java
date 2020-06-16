@@ -19,6 +19,8 @@ public class Trial {
         System.out.println(Arrays.toString(massive));
     }
 
+
+    
 //проверка опции pull с добавлением конфликта
 /* метод которым можно заменить основное тело
 //    public static void switchPlaces(int fst, int snd){
