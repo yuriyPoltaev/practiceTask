@@ -20,7 +20,7 @@ public class Trial {
     }
 
 
-    
+//проверка тегов
 //проверка опции pull с добавлением конфликта
 /* метод которым можно заменить основное тело
 //    public static void switchPlaces(int fst, int snd){
