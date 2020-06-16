@@ -18,7 +18,7 @@ public class Trial {
         }
         System.out.println(Arrays.toString(massive));
     }
-//проверка опции pull без конфликта
+//проверка опции pull с конфликтом
 /* метод которым можно заменить основное тело
 //    public static void switchPlaces(int fst, int snd){
 //        if (fst > snd) {
