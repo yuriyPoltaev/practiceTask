@@ -1,8 +1,10 @@
 import java.util.Arrays;
-
+/**
+ * This is a test sorting class
+ */
 public class Trial {
     public static void main(String[] args) {
-        int[] massive = {6, 1, 3, 2, 8, 10, 1, 0};
+        int[] massive = {6, 1, 3, 2, 8, 10, 1, 0, 5, 13, 16, 18};
         for (int i = 0; i < massive.length - 1; i++) {
             for (int j = 0; j <= massive.length - 2; j++) {
                 //switchPlaces(massive[j], massive[j+1]);
